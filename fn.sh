@@ -33,7 +33,7 @@ sapm(){
     ps -ef
 }
 usermgt
-
+filemgt
 
 
 #invoke the function by calling which one you need
