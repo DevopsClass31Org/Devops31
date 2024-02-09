@@ -34,6 +34,7 @@ sapm(){
 }
 usermgt
 filemgt
+packagemgt
 
 
 #invoke the function by calling which one you need
