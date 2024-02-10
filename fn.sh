@@ -35,7 +35,7 @@ sapm(){
 usermgt
 filemgt
 packagemgt
-
+bug removed
 
 #invoke the function by calling which one you need
 ~                                                         
